@@ -1,0 +1,37 @@
+Road_Name,Road_Type,Segment_Index,Start_Lat,Start_Lon,End_Lat,End_Lon,Length_Meters,Sinuosity_Index,Dist_to_Intersection_m,No_of_Lanes,Speed_Limit_kmh,Road_Surface,Has_Zebra_Crossing,Has_Streetlight_Infrastructure,Baseline_Traffic_Volume,Road_Condition,Start_Elevation_m,End_Elevation_m,Elevation_Gradient_Pct,Topography,Accident_Count,Is_Hotspot,Predicted_Hotspot,Prediction_Category
+Ella-Passara Road 3,primary,11,6.874928,81.074526,6.87587,81.073161,200,1.0913,122.46,2,60,asphalt,0,0,High,Good,1097,1078,-9.5,Downhill,0,0,0,True Safe
+Wellawaya-Ella-Kumbalwela Road 1,trunk,14,6.858831,81.057858,6.85954,81.056618,200,1.2671,1091.96,2,60,asphalt,0,0,High,Good,758,769,5.5,Uphill,0,0,0,True Safe
+Wellawaya-Ella-Kumbalwela Road 1,trunk,6,6.838616,81.072091,6.839777,81.070965,200,1.1189,749.47,2,60,asphalt,0,0,High,Good,645,626,-9.5,Downhill,0,0,0,True Safe
+Demodera-Spring Valley-Badulla Road 3,primary,6,6.905518,81.073627,6.906376,81.074623,200,1.3768,512.01,2,60,asphalt,0,0,High,Good,912,924,6,Uphill,0,0,0,True Safe
+Demodera-Spring Valley-Badulla Road 3,primary,7,6.906376,81.074623,6.906015,81.075399,200,2.115,607.58,2,60,asphalt,0,0,High,Good,924,934,5,Uphill,0,0,0,True Safe
+Badulla-Bandarawela Road 3,trunk,8,6.863885,81.025168,6.862248,81.02448,200,1.019,75.03,2,70,asphalt,0,0,High,Good,978,988,5,Uphill,0,0,1,False Alarm
+Badulla-Bandarawela Road 3,trunk,11,6.859048,81.023154,6.8575,81.022317,200,1.0282,391.37,2,70,asphalt,0,0,High,Good,1026,1051,12.5,Uphill,0,0,1,False Alarm
+Wellawaya-Ella-Kumbalwela Road 5,trunk,5,6.870268,81.048071,6.870829,81.04781,200,2.9243,68.26,2,60,asphalt,0,0,High,Good,971,971,0,Flat,0,0,0,True Safe
+Wellawaya-Ella-Kumbalwela Road 1,trunk,3,6.835501,81.075051,6.836567,81.074281,200,1.376,332.35,2,60,asphalt,0,0,High,Good,648,647,-0.5,Flat,0,0,0,True Safe
+Badulla-Bandarawela Road 3,trunk,1,6.873477,81.031248,6.872153,81.030029,200,1.0055,37.92,2,70,asphalt,0,0,High,Good,963,946,-8.5,Downhill,2,1,0,Missed Hotspot
+Demodera-Spring Valley-Badulla Road,primary,2,6.90337,81.063338,6.903867,81.063781,74.65,1.0146,78.71,2,60,asphalt,0,0,High,Good,866,866,0,Flat,0,0,0,True Safe
+Wellawaya-Ella-Kumbalwela Road 2,trunk,6,6.876207,81.038557,6.87778,81.038037,200,1.0921,410.64,2,60,asphalt,0,0,High,Good,1013,984,-14.5,Downhill,2,1,1,True Hotspot
+Waterfall Road,residential,4,6.86862,81.044039,6.867516,81.043141,200,1.2716,286.22,1,25,compacted,0,0,Low,Good,1036,1022,-7,Downhill,0,0,0,True Safe
+Badulla-Bandarawela Road 2,trunk,12,6.905736,81.059843,6.904521,81.058985,200,1.2166,327.64,2,70,asphalt,0,0,High,Good,852,898,23,Uphill,1,1,0,Missed Hotspot
+Ella-Passara Road 3,primary,22,6.873262,81.064574,6.871878,81.06344,200,1.0114,55.13,2,60,asphalt,0,0,High,Good,1058,1059,0.5,Flat,0,0,0,True Safe
+School Road,unclassified,2,6.910035,81.130927,6.908894,81.131254,200,1.5243,120.7,1,15,concrete,0,0,Low,Good,1056,1009,-23.5,Downhill,0,0,0,True Safe
+Ella-Passara Road 3,primary,6,6.870777,81.076258,6.869471,81.075522,200,1.207,354.1,2,60,asphalt,0,0,High,Good,1107,1080,-13.5,Downhill,0,0,0,True Safe
+Demodera-Spring Valley-Badulla Road 3,primary,3,6.905894,81.070258,6.907129,81.071506,200,1.0308,151.03,2,60,asphalt,0,0,High,Good,894,928,17,Uphill,0,0,0,True Safe
+Wellawaya-Ella-Kumbalwela Road 2,trunk,5,6.876345,81.040088,6.876207,81.038557,200,1.1776,528.42,2,60,asphalt,0,0,High,Good,1006,1013,3.5,Uphill,0,0,0,True Safe
+Ella-Passara Road,primary,1,6.873347,81.054373,6.873566,81.052817,200,1.152,72.49,2,60,asphalt,0,0,High,Good,1041,1039,-1,Flat,0,0,0,True Safe
+Ella-Passara Road 3,primary,20,6.874809,81.067442,6.874072,81.066066,200,1.1596,64.73,2,60,asphalt,0,0,High,Good,1052,1061,4.5,Uphill,0,0,0,True Safe
+Badulla-Bandarawela Road 3,trunk,3,6.870886,81.028748,6.870175,81.027153,200,1.0365,136.65,2,70,asphalt,0,0,High,Good,952,952,0,Flat,0,0,1,False Alarm
+Badulla-Bandarawela Road 3,trunk,12,6.8575,81.022317,6.856873,81.021914,82.6,1.0027,528.66,2,70,asphalt,0,0,High,Good,1051,1037,-16.95,Downhill,0,0,1,False Alarm
+Ella-Passara Road 3,primary,26,6.871979,81.059551,6.871199,81.058192,200,1.1551,179.05,2,60,asphalt,0,0,High,Good,1030,1010,-10,Downhill,0,0,0,True Safe
+Ella-Passara Road 4,primary,4,6.904993,81.123606,6.903573,81.123388,200,1.2593,226.54,2,60,asphalt,0,0,High,Good,1184,1188,2,Uphill,0,0,0,True Safe
+Badulla-Bandarawela Road 1,trunk,2,6.85489,81.019965,6.854301,81.018356,200,1.0564,592.08,2,70,asphalt,0,0,High,Good,1042,1061,9.5,Uphill,0,0,1,False Alarm
+Wellawaya-Ella-Kumbalwela Road 2,trunk,13,6.875283,81.032494,6.873675,81.031915,200,1.0587,121.11,2,60,asphalt,0,0,High,Good,949,945,-2,Downhill,0,0,1,False Alarm
+Ella-Passara Road 4,primary,3,6.9059,81.122049,6.904993,81.123606,200,1.0045,107.52,2,60,asphalt,0,0,High,Good,1165,1184,9.5,Uphill,0,0,0,True Safe
+Demodera-Spring Valley-Badulla Road 4,primary,2,6.898754,81.061374,6.898046,81.062457,200,1.3989,84.36,2,60,asphalt,0,0,High,Good,858,885,13.5,Uphill,0,0,0,True Safe
+Ella-Passara Road 4,primary,7,6.90227,81.120185,6.901477,81.119901,141.6,1.5208,193.33,2,60,asphalt,0,0,High,Good,1217,1239,15.54,Uphill,0,0,0,True Safe
+Wellawaya-Ella-Kumbalwela Road,trunk,1,6.874406,81.048338,6.874197,81.04665,200,1.0643,77.64,2,60,asphalt,0,0,High,Good,1006,1024,9,Uphill,0,0,1,False Alarm
+Ella-Passara Road 3,primary,27,6.871199,81.058192,6.870937,81.05689,200,1.363,94.49,2,60,asphalt,0,0,High,Good,1010,1017,3.5,Uphill,0,0,0,True Safe
+Wellawaya-Ella-Kumbalwela Road 5,trunk,5,6.867035,81.050687,6.867558,81.049032,200,1.0429,412.09,2,60,asphalt,0,0,High,Good,847,858,5.5,Uphill,0,0,1,False Alarm
+Wellawaya-Ella-Kumbalwela Road 1,trunk,17,6.861278,81.054763,6.861612,81.054451,52.13,1.032,931.56,2,60,asphalt,0,0,High,Good,822,822,0,Flat,1,1,1,True Hotspot
+Badulla-Bandarawela Road 3,trunk,2,6.897808,81.05856,6.896516,81.057696,200,1.1642,139.29,2,70,asphalt,0,0,High,Good,883,899,8,Uphill,1,1,0,Missed Hotspot
+Ella-Passara Road 3,primary,3,6.870173,81.080256,6.87016,81.078723,200,1.1808,222.55,2,60,asphalt,0,0,High,Good,1078,1073,-2.5,Downhill,0,0,0,True Safe
